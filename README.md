@@ -10,7 +10,7 @@ The dataset contains customer shopping information, including demographic detail
 
 ## Tools & Technologies
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas)
 * PostgreSQL
 * SQL
 * Power BI
